@@ -2,8 +2,7 @@
 
 A **Coca Cola themed web page** built with HTML, CSS, and JavaScript — designed to showcase a visually appealing landing page inspired by the iconic Coca-Cola brand. :contentReference[oaicite:1]{index=1}
 
-👉 **Live Demo:** https://cocaxcola.netlify.app/ :contentReference[oaicite:2]{index=2}
-
+👉 **Live Demo:** https://cocaxcola.netlify.app/ 
 ---
 
 ## 🧩 About the Project
